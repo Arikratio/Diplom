@@ -1,0 +1,43 @@
+F:\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe.config
+F:\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe
+F:\Diplom\Diplom\Diplom\bin\Debug\Diplom.pdb
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+F:\Diplom\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+F:\Diplom\Diplom\Diplom\obj\Debug\App.g.cs
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+F:\Diplom\Diplom\Diplom\obj\Debug\MainWindow.baml
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom.g.resources
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom.exe
+F:\Diplom\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Program Files (x86)\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Program Files (x86)\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Program Files (x86)\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\App.g.cs
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\MainWindow.baml
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom.g.resources
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Program Files (x86)\Diplom\Diplom\obj\Debug\Diplom.pdb
+D:\Diplom\Diplom\bin\Debug\Diplom.exe.config
+D:\Diplom\Diplom\bin\Debug\Diplom.exe
+D:\Diplom\Diplom\bin\Debug\Diplom.pdb
+D:\Diplom\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+D:\Diplom\Diplom\obj\Debug\MainWindow.g.cs
+D:\Diplom\Diplom\obj\Debug\App.g.cs
+D:\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.cache
+D:\Diplom\Diplom\obj\Debug\Diplom_MarkupCompile.lref
+D:\Diplom\Diplom\obj\Debug\MainWindow.baml
+D:\Diplom\Diplom\obj\Debug\Diplom.g.resources
+D:\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+D:\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+D:\Diplom\Diplom\obj\Debug\Diplom.exe
+D:\Diplom\Diplom\obj\Debug\Diplom.pdb

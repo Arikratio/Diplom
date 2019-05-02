@@ -1,0 +1,5 @@
+J:\Diplom\Diplom\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+J:\Diplom\Diplom\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+J:\Diplom\Diplom\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+J:\Diplom\Diplom\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+J:\Diplom\Diplom\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
